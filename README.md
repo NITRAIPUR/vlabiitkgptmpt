@@ -1,5 +1,5 @@
 # vlabiitkgptmpt
-Base template of Virtual labs webpage.
+Base template of Virtual labs IIT Khargpur webpage.
 Last updated on
   20-04-2020,
 by
